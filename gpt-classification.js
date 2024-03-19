@@ -28,7 +28,7 @@ try {
 
 let APIcall = async (text) => { 
     const openai = new OpenAI({
-        apiKey: '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'
+        apiKey: 'sk-something'
     });
     const user_input = prompt + ' ' + text;
     // console.log(user_input);

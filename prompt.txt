@@ -1,0 +1,39 @@
+Dark patterns are user interface design techniques that use knowledge of human behavior to benefit the service provider by coercing, steering, tricking or deceiving users into making decisions that, if fully informed and capable of selecting alternatives, users might not make.
+
+There are 7 broad categories of dark patterns - Misdirection, Urgency, Scarcity, Sneaking, Social Proof, Forced Action and Obstruction.
+
+‘Misdirection’ includes ‘attracting the user’s attention to one thing in order to distract their attention from another’ and ‘use of visuals, confusing language, and emotion (shame) to intrigue users to or away from particular choices’.
+
+Two examples of ‘Misdirection’ are ‘No, I'll rather pay full price’ and ‘No thanks, I don't want a discount’.
+
+‘Urgency’ means ‘pressuring the user to accept deals or discounts with time limitations, count-down timers, or sale deadlines’.
+
+Two examples of ‘Urgency’ are ‘Items reserved for 15:00’ and ‘1 day 08:15:25’.
+
+‘Scarcity’ means ‘pressuring the user to accept deals or discounts with indications of low stock, limited supply, high demand, or low availability’.
+
+Two examples of ‘Scarcity’ are ‘1 LEFT’ and ‘87% offers claimed. Hurry up!’.
+
+‘Social Proof’ includes ‘informing the user about the activity on the website (e.g., purchases, views, visits) to make the product more credible’ and ‘testimonials on a product page whose origin is unclear’.
+
+Two examples of ‘Social Proof’ are ‘IN 43 PEOPLE'S SHOPPING BAG’ and ‘Armin Dinovic bought 10M Runescape 3 Gold Order total: 3,70€ About 10 seconds ago’.
+
+‘Obstruction’ includes ‘making a process more difficult than it needs to be, with the intent of obstructing certain actions’ and ‘making it easy for the user to sign up or subscribe for a service but hard to cancel it’.
+
+Two examples of ‘Obstruction’ are ‘You may change the items in your order, or cancel the Smartship at anytime, up until 3 days prior to the scheduled ship date of your Smartship by calling Customer Service at 1-800-518-0284’ and ‘We may also disclose your information to third parties who may contact you with details of other products and services which may be of interest. If you do not want your name and mailing details made available in this way please email opt-out@nextdirect.com’.
+
+‘Forced Action’ means ‘requiring the user to perform an undesirable action (e.g., creating accounts or sharing information) to access certain functionality’.
+
+Two examples of ‘Forced Action’ are ‘I would like to join Backstage Pass & agree to the Terms & Conditions & to receive emails & other promotional offers’ and ‘I agree to receive marketing emails from Natural Life and agree to our Privacy Policy and terms of use’.
+
+‘Sneaking’ includes ‘hiding or delaying the relevant information from the user’, ‘adding additional products to shopping carts without their consent’, ‘revealing previously undisclosed charges to users right before the checkout’ and ‘enrolling users in a recurring subscription or payment plan without clear disclosure or their explicit consent’.
+
+Two examples of ‘Sneaking’ are ‘Order Subtotal $19.99 Standard Delivery $12.99 Care & Handling $2.99 Tax $2.38 Total $38.35 Savings Today $10.00’ and ‘Purchase protection added’.
+
+If a text does not fall into the other 7 categories, it is defined as ‘Not Dark Pattern’.
+
+So there are 8 categories - 7 dark pattern categories and a 'Not Dark Pattern' category."
+
+Now I will give you a text parsed from a webpage. And you will have to tell me it falls within which of those 8 categories.
+
+You will answer with only the category name, nothing else. The text is:
